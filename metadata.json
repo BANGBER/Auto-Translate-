@@ -1,0 +1,7 @@
+{
+  "name": "Linguify AI Translator",
+  "description": "A modern, real-time AI-powered translator with speech-to-text and auto-language detection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
